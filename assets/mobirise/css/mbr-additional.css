@@ -1068,6 +1068,34 @@ a {
 .cid-tLm6L6BZ6e .mbr-text,
 .cid-tLm6L6BZ6e .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
+}
+.cid-tLm6L6BZ6e .mbr-section-title DIV {
+  text-align: center;
+}
+.cid-ujElIuxgu2 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/1111-8.webp");
+}
+.cid-ujElIuxgu2 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ujElIuxgu2 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ujElIuxgu2 .mbr-section-title {
+  color: #9fdbf8;
+}
+.cid-ujElIuxgu2 .mbr-text,
+.cid-ujElIuxgu2 .mbr-section-btn {
+  color: #eab4e9;
 }
 .cid-ue5VFlkWlI {
   padding-top: 0rem;
@@ -1224,30 +1252,6 @@ a {
   -webkit-touch-callout: none;
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
-}
-.cid-tLmgxsX7cu {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/1111-8.webp");
-}
-.cid-tLmgxsX7cu .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tLmgxsX7cu .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tLmgxsX7cu .mbr-section-title {
-  color: #9fdbf8;
-}
-.cid-tLmgxsX7cu .mbr-text,
-.cid-tLmgxsX7cu .mbr-section-btn {
-  color: #fafafa;
 }
 .cid-ujiE0gejSO {
   padding-top: 1rem;
@@ -1540,13 +1544,13 @@ a {
 .cid-ujiSvyQ92I .link-wrap {
   color: #ffffff;
 }
-.cid-ujiRyuJomZ {
+.cid-ujEgguCwQO {
   background-image: url("../../../assets/images/photo-43-2024-07-22-19-43.webp");
 }
-.cid-ujiRyuJomZ .mbr-fallback-image.disabled {
+.cid-ujEgguCwQO .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ujiRyuJomZ .mbr-fallback-image {
+.cid-ujEgguCwQO .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1555,42 +1559,42 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ujiRyuJomZ .number-wrap {
+.cid-ujEgguCwQO .number-wrap {
   color: #ffffff;
   text-align: center;
 }
-.cid-ujiRyuJomZ .number {
+.cid-ujEgguCwQO .number {
   color: #ffffff;
 }
-.cid-ujiRyuJomZ .period {
+.cid-ujEgguCwQO .period {
   display: block;
 }
-.cid-ujiRyuJomZ .dot {
+.cid-ujEgguCwQO .dot {
   display: none;
 }
 @media (max-width: 767px) {
-  .cid-ujiRyuJomZ .period {
+  .cid-ujEgguCwQO .period {
     font-size: 0.8rem;
   }
 }
-.cid-ujiRyuJomZ .btn {
+.cid-ujEgguCwQO .btn {
   height: 100%;
   margin: 0;
 }
-.cid-ujiRyuJomZ .mbr-section-btn {
+.cid-ujEgguCwQO .mbr-section-btn {
   margin-bottom: 1.2rem;
 }
-.cid-ujiRyuJomZ .mbr-section-title {
+.cid-ujEgguCwQO .mbr-section-title {
   color: #ffffff;
 }
-.cid-ujiRyuJomZ .mbr-text {
+.cid-ujEgguCwQO .mbr-text {
   color: #ffffff;
 }
-.cid-ujiRyuJomZ .icons-menu .soc-item {
+.cid-ujEgguCwQO .icons-menu .soc-item {
   padding-left: 8px;
   padding-right: 8px;
 }
-.cid-ujiRyuJomZ .icons-menu .soc-item .mbr-iconfont {
+.cid-ujEgguCwQO .icons-menu .soc-item .mbr-iconfont {
   font-size: 2rem;
   display: flex;
   border-radius: 50%;
@@ -1601,10 +1605,10 @@ a {
   align-content: center;
   transition: all 0.3s;
 }
-.cid-ujiRyuJomZ .icons-menu .soc-item .mbr-iconfont:before {
+.cid-ujEgguCwQO .icons-menu .soc-item .mbr-iconfont:before {
   padding: 0.6rem;
 }
-.cid-ujiRyuJomZ .icons-menu .soc-item .mbr-iconfont:hover {
+.cid-ujEgguCwQO .icons-menu .soc-item .mbr-iconfont:hover {
   background-color: #ffffff;
   color: #000000;
 }
@@ -1759,6 +1763,37 @@ a {
 }
 .cid-ujnhGBRwu5 .mbr-section-subtitle {
   color: #ffffff;
+}
+.cid-ujEtcpPBST {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  background-color: #000000;
+}
+.cid-ujEtcpPBST .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ujEtcpPBST .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ujEtcpPBST .video-wrapper iframe {
+  width: 100%;
+}
+.cid-ujEtcpPBST .mbr-section-title,
+.cid-ujEtcpPBST .mbr-section-subtitle,
+.cid-ujEtcpPBST .mbr-text {
+  text-align: center;
+}
+.cid-ujEtcpPBST .mbr-section-title {
+  color: #eab4e9;
+}
+.cid-ujEtcpPBST .mbr-section-subtitle {
+  color: #eab4e9;
 }
 .cid-tLmJUkxTnX {
   padding-top: 5rem;
